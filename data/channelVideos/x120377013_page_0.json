@@ -1,0 +1,73 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "85667524",
+            "title": "Ninja Coffee Bar Review",
+            "date_created": "1488570954",
+            "loginId": "1758397",
+            "tags": "Review, Coffee Maker",
+            "description": "Ninja Coffee Bar Review. Gave up the espresso machine for the Ninja Coffee Bar Single Serve System. To get straight to the review go to 2:00 mark.",
+            "asset": {
+                "type": "youtube",
+                "author": "A Life In General Productions",
+                "hdvFlag": 1,
+                "description": "Ninja Coffee Bar Review. Gave up the espresso machine for the Ninja Coffee Bar Single Serve System. To get straight to the review go to 2:00 mark.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/bgUrDOvxIn0\/hqdefault.jpg",
+                "videoId": "bgUrDOvxIn0",
+                "mediaDuration": 577,
+                "prettyDuration": "00:09:37",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "120377013",
+            "url": "\/empty\/ninja-coffee-bar-review\/120377013-85667524"
+        },
+        {
+            "id": "117421851",
+            "title": "How to Download YouTube Thumbnails in Max Resolution",
+            "date_created": "1505175182",
+            "loginId": "1758397",
+            "tags": null,
+            "description": "https:\/\/i1.ytimg.com\/vi\/Enter11Digit\/maxresdefault.jpg\nA popular question among Liquicity videos. Piss easy process, so I wanted to share.",
+            "asset": {
+                "type": "youtube",
+                "author": "MadSupra354",
+                "hdvFlag": 1,
+                "description": "https:\/\/i1.ytimg.com\/vi\/Enter11Digit\/maxresdefault.jpg\nA popular question among Liquicity videos. Piss easy process, so I wanted to share.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8lirVROGSKY\/maxresdefault.jpg",
+                "videoId": "8lirVROGSKY",
+                "mediaDuration": 82,
+                "prettyDuration": "00:01:22"
+            },
+            "parentId": "120377013",
+            "url": "\/empty\/how-to-download-youtube-thumbnails-in-max-resolution\/120377013-117421851"
+        },
+        {
+            "id": "117418794",
+            "title": "Ashley Smith Collection | Fall 2014",
+            "date_created": "1505170193",
+            "loginId": "1758397",
+            "tags": "",
+            "description": "Introducing the first RVCA x Ashley Smith signature collection for Fall 2014.",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/106480185.sd.mp4?s=7a5e0b4c87800a9b2ed1d8e383a0b840c095d459&profile_id=112&oauth2_token_id=994715502"
+                    }
+                ],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/489609699_960x540.jpg?r=pad",
+                "mediaDuration": 86,
+                "prettyDuration": "01:26",
+                "uploadDate": 1411038099,
+                "tags": ""
+            },
+            "parentId": "120377013",
+            "url": "\/empty\/ashley-smith-collection-fall-2014\/120377013-117418794"
+        }
+    ]
+}

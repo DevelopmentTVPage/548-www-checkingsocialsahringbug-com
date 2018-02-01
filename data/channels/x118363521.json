@@ -1,0 +1,24 @@
+{
+    "title": "YouTube Videos",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1505946194",
+    "date_modified": "1507179175",
+    "tags": "",
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "118363521",
+    "loginId": "1758397",
+    "entityType": "3",
+    "titleTextEncoded": "YouTube",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
+    "transcripts": null
+}
